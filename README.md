@@ -16,13 +16,6 @@ Surprise Natsuki with brand new outfits and accessories, developed and curated b
             <br />
             <sub><b>Blizzardsev</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/RaionArt">
-            <img src="https://avatars.githubusercontent.com/u/112613077?v=4" width="100;" alt="RaionArt"/>
-            <br />
-            <sub><b>RaionArt</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
