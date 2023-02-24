@@ -11,4 +11,4 @@ assignees: ''
 [brief description of the issue(s) you are facing]
 
 ## Additional information:
-[any other information you think is relevant - I.E operating system, date and so on]
+[any other information you think is relevant - I.E operating system, date and so on. Please attach your log file!]
