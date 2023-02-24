@@ -8,6 +8,16 @@ _Please note that the custom outfits feature **must** be unlocked in-game before
 
 ### Thanks to our contributors:
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Blizzardsev">
+            <img src="https://avatars.githubusercontent.com/u/57731669?v=4" width="100;" alt="Blizzardsev"/>
+            <br />
+            <sub><b>Blizzardsev</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 
 ### Installation and usage instructions
