@@ -37,7 +37,7 @@ Please note that we do **not** officially support installations using mod manage
 2. Extract/unzip the release.
 3. For each outfit/set you wish to add to the game:
     - Go into the folder for that outfit
-    - Select and copy all of the folder contents
+    - Select and copy all of the folder contents (all of it)
     - Paste what you have copied to your JN installation (inside the main `DDLC` folder).
 4. Launch `DDLC.exe` if you are on Windows, or `DDLC.sh` if you are on Linux/Mac: allow a few minutes for Natsuki to discover the new item(s). 
     1. If Natsuki does not bring up custom outfits, you may ask her to search for them directly under `Talk` -> `About your outfit...` -> `Can you search again for new outfits?`.
