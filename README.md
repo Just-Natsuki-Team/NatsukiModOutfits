@@ -33,7 +33,7 @@ Please note that we do **not** officially support installations using mod manage
 
 **Read the instructions carefully.**
 
-1. Download the latest release [here](https://github.com/Just-Natsuki-Team/NatsukiModOutfits/releases): select the ZIP file starting with `jn`.
+1. Download the latest release [here](https://github.com/Just-Natsuki-Team/NatsukiModOutfits/releases): select the ZIP file starting with `jno`.
 2. Extract/unzip the release.
 3. For each outfit/set you wish to add to the game, go into the folder for that outfit and copy the contents to your JN installation (under the main `DDLC` folder).
 4. Launch `DDLC.exe` if you are on Windows, or `DDLC.sh` if you are on Linux/Mac: allow a few minutes for Natsuki to discover the new item(s). 
