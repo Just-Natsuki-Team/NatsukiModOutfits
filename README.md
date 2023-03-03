@@ -36,7 +36,7 @@ Please note that we do **not** officially support installations using mod manage
 1. Download the latest release [here](https://github.com/Just-Natsuki-Team/NatsukiModOutfits/releases): select the ZIP file starting with `jn`.
 2. Extract/unzip the release.
 3. For each outfit/set you wish to add to the game, go into the folder for that outfit and copy the contents to your JN installation (under the main `DDLC` folder).
-4. Launch `DDLC.exe`, or `DDLC.sh` if you are on Linux/Mac: allow a few minutes for Natsuki to discover the new item(s). 
+4. Launch `DDLC.exe` if you are on Windows, or `DDLC.sh` if you are on Linux/Mac: allow a few minutes for Natsuki to discover the new item(s). 
     1. If Natsuki does not bring up custom outfits, you may ask her to search for them directly under `Talk` -> `About your outfit...` -> `Can you search again for new outfits?`.
     2. If a popup states that an item failed to load, please consult the official JN wiki [here](https://github.com/Just-Natsuki-Team/NatsukiModDev/wiki/06:-Custom-clothing-and-outfitting-guide-(Spoilers)) _before_ raising a support request.
 
@@ -48,18 +48,31 @@ Please refer to the guidance on the official JN wiki [here](https://github.com/J
 
 Looking to have your own custom-made outfits or wearables added for fans of the mod to discover and enjoy? We'd love to hear from you!
 
+#### Working with us on GitHub
+
 1. Create a fork of this repository.
-2. Make your additions under a new branch: this must be named `[your user name]/[your creation name]` for example `blizzardsev/my-amazing-hairpin`. Be sure to follow the convention set by existing items, such as folder names, paths, etc.
-3. Create a pull request, targeting the `main` branch of **this** repository.
-4. The team will review your request, and provide feedback/changes. The team reserves the right to refuse your request if we feel it doesn't meet our quality or community standards.
+2. Create a new branch on your repository: this must be named `[your user name]/[your creation name]` for example `blizzardsev/my-amazing-hairpin`, based off the `review` branch.
+3. Make your additions under your branch: be sure to follow the convention set by existing items, such as folder names, paths, etc. At minimum, we expect:
+    - **One or more new wearables**, with required assets and a definition file. These **must not** be recolours or edits of existing official JN or community outfits.
+    - **A custom outfit definition file** that can be used to have Natsuki show off **all** your new additions.
+    - **No more than one item for each wearable slot**, so users know exactly what to expect from the preview.
+3. Create a pull request, targeting the `review` branch of **this** repository.
+4. The team will review your request, and provide feedback/changes. Please note that the team reserves the right to refuse your request if we feel it doesn't meet our quality or community standards, or we don't feel a potential contributor is working with good faith.
 5. If successful, your item will be added in the next outfit release! You will be credited on the contributors list on the README, and in the release notes.
 
-### Outfit previews
+#### Resources
+
+- [Official custom clothing and outfitting guide](https://github.com/Just-Natsuki-Team/NatsukiModDev/wiki/06:-Custom-clothing-and-outfitting-guide-(Spoilers))
+- [Official outfit resource pack](https://github.com/Just-Natsuki-Team/NatsukiModDev/releases/download/v1.0.3/outfit_resource_pack_v1.0.3.zip)
+
+### Previews
+
+#### Outfits
 
 <table>
     <tr>
         <td align="center">
-                <img src="https://justnatsuki.club/img/outfit-previews/raionart_nat_in_time.png" width="300;" alt="raionart_nat_in_time"/>
+                <img src="https://justnatsuki.club/img/outfit-previews/raionart_nat_in_time.png" width="200;" alt="raionart_nat_in_time"/>
                 <br />
                 <sub><b>raionart_nat_in_time</b></sub>
         </td>
