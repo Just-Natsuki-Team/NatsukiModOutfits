@@ -4,7 +4,7 @@ Official extra outfits for Just Natsuki!
 
 Surprise Natsuki with brand new outfits and accessories developed by the JN team and community, curated by the JN team!
 
-**_Please note that the custom outfits feature must be unlocked in-game before Natsuki can wear any custom outfits._**
+**_Please note that the custom outfits feature must be unlocked in-game before Natsuki can wear any custom outfits. Outfit pack updates are **not** related to main mod updates._**
 
 ### Thanks to our contributors:
 <!-- readme: contributors -start -->
