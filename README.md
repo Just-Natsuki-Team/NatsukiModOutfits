@@ -2,7 +2,7 @@
 
 Official extra outfits for Just Natsuki!
 
-Surprise Natsuki with brand new outfits and accessories, developed and curated by the JN team!
+Surprise Natsuki with brand new outfits and accessories developed by the JN team and community, curated by the JN team!
 
 **_Please note that the custom outfits feature must be unlocked in-game before Natsuki can wear any custom outfits._**
 
@@ -35,7 +35,10 @@ Please note that we do **not** officially support installations using mod manage
 
 1. Download the latest release [here](https://github.com/Just-Natsuki-Team/NatsukiModOutfits/releases): select the ZIP file starting with `jno`.
 2. Extract/unzip the release.
-3. For each outfit/set you wish to add to the game, go into the folder for that outfit and copy the contents to your JN installation (under the main `DDLC` folder).
+3. For each outfit/set you wish to add to the game:
+    - Go into the folder for that outfit
+    - Select and copy all of the folder contents
+    - Paste what you have copied to your JN installation (inside the main `DDLC` folder).
 4. Launch `DDLC.exe` if you are on Windows, or `DDLC.sh` if you are on Linux/Mac: allow a few minutes for Natsuki to discover the new item(s). 
     1. If Natsuki does not bring up custom outfits, you may ask her to search for them directly under `Talk` -> `About your outfit...` -> `Can you search again for new outfits?`.
     2. If a popup states that an item failed to load, please consult the official JN wiki [here](https://github.com/Just-Natsuki-Team/NatsukiModDev/wiki/06:-Custom-clothing-and-outfitting-guide-(Spoilers)) _before_ raising a support request.
