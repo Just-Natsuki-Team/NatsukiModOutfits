@@ -84,5 +84,15 @@ Looking to have your own custom-made outfits or wearables added for fans of the 
                 <br />
                 <sub><b>raionart_natsupara</b></sub>
         </td>
+        <td align="center">
+                <img src="https://justnatsuki.club/img/outfit-previews/raionart_red_bunny.png" width="200;" alt="raionart_red_bunny"/>
+                <br />
+                <sub><b>raionart_red_bunny</b></sub>
+        </td>
+        <td align="center">
+                <img src="https://justnatsuki.club/img/outfit-previews/raionart_black_bunny.png" width="200;" alt="raionart_black_bunny"/>
+                <br />
+                <sub><b>raionart_black_bunny</b></sub>
+        </td>
     </tr>
 </table>
