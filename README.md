@@ -74,30 +74,43 @@ Looking to have your own custom-made outfits or wearables added for fans of the 
 
 <table>
     <tr>
-        <td align="center">
-                <img src="https://justnatsuki.club/img/outfit-previews/raionart_nat_in_time.png" width="150px;" alt="raionart_nat_in_time"/>
-                <br />
-                <sub><b>raionart_nat_in_time</b></sub>
+        <!--Max 4 per row-->
+        <td align="center" style="width: 150px; max-width: 150px; vertical-align: top">
+            <img src="https://justnatsuki.club/img/outfit-previews/raionart_nat_in_time.png" style="width: 150px; max-width: 150px;" alt="raionart_nat_in_time"/>
+            <br />
+            <sub><b>Nat in Time</b></sub>
+            <br>
+            <sub><i>Raionart</i></sub>
         </td>
-        <td align="center">
-                <img src="https://justnatsuki.club/img/outfit-previews/raionart_natsupara.png" width="150px;" alt="raionart_natsupara"/>
-                <br />
-                <sub><b>raionart_natsupara</b></sub>
+        <td align="center" style="width: 150px; max-width: 150px; vertical-align: top">
+            <img src="https://justnatsuki.club/img/outfit-previews/raionart_natsupara.png" style="width: 150px; max-width: 150px;" alt="raionart_natsupara"/>
+            <br />
+            <sub><b>Natsupara</b></sub>
+            <br>
+            <sub><i>Raionart</i></sub>
         </td>
-        <td align="center">
-                <img src="https://justnatsuki.club/img/outfit-previews/raionart_red_bunny.png" width="150px;" alt="raionart_red_bunny"/>
-                <br />
-                <sub><b>raionart_red_bunny</b></sub>
+        <td align="center" style="width: 150px; max-width: 150px; vertical-align: top">
+            <img src="https://justnatsuki.club/img/outfit-previews/raionart_red_bunny.png" style="width: 150px; max-width: 150px;" alt="raionart_red_bunny"/>
+            <br />
+            <sub><b>Red Bunny</b></sub>
+            <br>
+            <sub><i>Raionart</i></sub>
         </td>
-        <td align="center">
-                <img src="https://justnatsuki.club/img/outfit-previews/raionart_black_bunny.png" width="150px;" alt="raionart_black_bunny"/>
-                <br />
-                <sub><b>raionart_black_bunny</b></sub>
+        <td align="center" style="width: 150px; max-width: 150px; vertical-align: top">
+            <img src="https://justnatsuki.club/img/outfit-previews/raionart_black_bunny.png" style="width: 150px; max-width: 150px;" alt="raionart_black_bunny"/>
+            <br />
+            <sub><b>Black Bunny</b></sub>
+            <br>
+            <sub><i>Raionart</i></sub>
         </td>
-        <td align="center">
-                <img src="https://justnatsuki.club/img/outfit-previews/raionart_demon_realm_top.png" width="150px;" alt="raionart_demon_realm_top"/>
-                <br />
-                <sub><b>raionart_demon_realm_top</b></sub>
+    </tr>
+    <tr>
+        <td align="center" style="width: 150px; max-width: 150px; vertical-align: top; padding-top:20px">
+            <img src="https://justnatsuki.club/img/outfit-previews/raionart_demon_realm_top.png" style="width: 150px; max-width: 150px;" alt="raionart_demon_realm_top"/>
+            <br />
+            <sub><b>Demon Realm top</b></sub>
+            <br>
+            <sub><i>Raionart</i></sub>
         </td>
     </tr>
 </table>
