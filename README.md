@@ -95,9 +95,9 @@ Looking to have your own custom-made outfits or wearables added for fans of the 
                 <sub><b>raionart_black_bunny</b></sub>
         </td>
         <td align="center">
-                <img src="https://justnatsuki.club/img/outfit-previews/raionart_restore_the_demon_realm_top.png" width="150px;" alt="raionart_restore_the_demon_realm_top"/>
+                <img src="https://justnatsuki.club/img/outfit-previews/raionart_demon_realm_top.png" width="150px;" alt="raionart_demon_realm_top"/>
                 <br />
-                <sub><b>raionart_restore_the_demon_realm_top</b></sub>
+                <sub><b>raionart_demon_realm_top</b></sub>
         </td>
     </tr>
 </table>
