@@ -112,5 +112,19 @@ Looking to have your own custom-made outfits or wearables added for fans of the 
             <br>
             <sub><i>RaionArt</i></sub>
         </td>
+        <td align="center" style="width: 150px; max-width: 150px; vertical-align: top; padding-top:20px">
+            <img src="https://justnatsuki.club/img/outfit-previews/raionart_gladiolus_getup.png" style="width: 150px; max-width: 150px;" alt="raionart_gladiolus_getup"/>
+            <br />
+            <sub><b>Gladiolus getup</b></sub>
+            <br>
+            <sub><i>RaionArt</i></sub>
+        </td>
+        <td align="center" style="width: 150px; max-width: 150px; vertical-align: top; padding-top:20px">
+            <img src="https://justnatsuki.club/img/outfit-previews/raionart_kaetzlein_bloodline.png" style="width: 150px; max-width: 150px;" alt="raionart_kaetzlein_bloodline"/>
+            <br />
+            <sub><b>Kätzlein bloodline</b></sub>
+            <br>
+            <sub><i>RaionArt</i></sub>
+        </td>
     </tr>
 </table>
