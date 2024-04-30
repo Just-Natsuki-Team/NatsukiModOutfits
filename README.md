@@ -11,17 +11,17 @@ Surprise Natsuki with brand new outfits and accessories developed by the JN team
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/Blizzardsev">
-            <img src="https://avatars.githubusercontent.com/u/57731669?v=4" width="100;" alt="Blizzardsev"/>
-            <br />
-            <sub><b>Blizzardsev</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/RaionArt">
             <img src="https://avatars.githubusercontent.com/u/112613077?v=4" width="100;" alt="RaionArt"/>
             <br />
             <sub><b>RaionArt</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Blizzardsev">
+            <img src="https://avatars.githubusercontent.com/u/57731669?v=4" width="100;" alt="Blizzardsev"/>
+            <br />
+            <sub><b>Blizzardsev</b></sub>
         </a>
     </td></tr>
 </table>
